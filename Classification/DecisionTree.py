@@ -7,8 +7,6 @@ import torch
 import matplotlib.pyplot as plt
 import numpy as np
 
-#Test
-
 #读取数据
 DATA_PATH = Path("../data")
 PATH = DATA_PATH / "MNIST"

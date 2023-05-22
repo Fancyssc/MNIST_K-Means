@@ -4,7 +4,6 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torchvision import datasets, transforms
 
-#This is a test
 
 BATCH_SIZE = 50000
 EPOCHS = 2
